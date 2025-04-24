@@ -28,7 +28,7 @@ Linux separates its operations into two distinct areas: **user space** and **ker
                 |                Hardware                  |
                 |  (CPU, Memory, Storage, I/O Devices)        |
                 +--------------------------------------------+
-				
+```				
 Linux organizes its operations into two distinct "spaces" — **user space** and **system space (or kernel space)** — to enhance stability, security, and performance. Here’s a beautifully simplified breakdown of what these spaces are and how they relate to each other:
 
 ---
